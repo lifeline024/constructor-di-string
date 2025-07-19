@@ -28,7 +28,7 @@ com.example.studentproject
 1. Clone the repository:
 
     bash
-    git clone https://github.com/hariomsonihs/constructor-di-spring.git
+    git clone https://github.com/lifeline024/constructor-di-string
     cd constructor-di-spring
     
 
